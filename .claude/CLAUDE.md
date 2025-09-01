@@ -1,10 +1,9 @@
 ﻿# Visual Development Protocol
 
 For any front-end change immediately:
-
+- run the agente-revisador-ui agent
 
 Constraints:
-- No new frameworks/deps without explicit approval.
 - Enforce labels, focus states, contrast, keyboard nav.
 - Keep CLS/LCP sane; do not silence errors.
 
