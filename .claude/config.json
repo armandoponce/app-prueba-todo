@@ -1,0 +1,10 @@
+﻿{
+  "mcp": {
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "github:microsoft/playwright-mcp"],
+      "env": { "PLAYWRIGHT_BROWSERS_PATH": "0" },
+      "autoRestart": true
+    }
+  }
+}
